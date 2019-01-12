@@ -1,0 +1,20 @@
+{"//1": "describes the christmas app and dependencies",
+    "//2": "https://docs.npmjs.com/files/package.json",
+    "//3": "updating this file will download and update your packages",
+    "name": "christmas-shopping",
+    "description": "A simple node app built on Express to track Christmas shopping",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.3"
+    },
+    "engines": {
+        "node": "8.x"
+    },
+    "repository": {
+        "url": ""
+    }
+
+}
